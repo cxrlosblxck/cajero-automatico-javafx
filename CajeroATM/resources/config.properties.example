@@ -1,0 +1,4 @@
+# Configuración de la base de datos
+db.url=jdbc:mysql://localhost:3306/cajero_automatico?useSSL=false&serverTimezone=UTC
+db.user=TU_USUARIO_AQUI
+db.password=TU_CONTRASENA_AQUI
